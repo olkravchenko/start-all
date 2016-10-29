@@ -1,0 +1,4 @@
+@import "utilities/index"; // находятся переменные, которые должны идти первыми
+@import "base/index"; //обнуление - нормалайз или резет
+@import "layout/index"; //общий каркас
+@import "vendors/index";

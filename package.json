@@ -1,0 +1,33 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "<h1>Hi this is test repository</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liksunovmaxim/test-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liksunovmaxim/test-repo/issues"
+  },
+  "homepage": "https://github.com/liksunovmaxim/test-repo#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-filter": "^4.0.0",
+    "gulp-flatten": "^0.3.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-js-minify": "0.0.3",
+    "gulp-main-bower-files": "^1.5.3",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-watch": "^4.3.10"
+  }
+}
